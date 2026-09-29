@@ -74,7 +74,7 @@ npx serve .
 ## 🛠️ প্রযুক্তি স্ট্যাক (Tech Stack)
 
 - **Frontend:** HTML5, Modern Vanilla CSS (Glassmorphism, Dark Mode, iOS Safe-Area support)
-- **Logic & OCR:** Vanilla JavaScript (ES6+), Multi-API Pool, Tesseract OCR fallback, D3.js visual inspection
+- **Logic & OCR:** Vanilla JavaScript (ES6+), Multi-API Pool, Tesseract.js 7 OCR, jsPDF 4, D3.js 7.9 visual inspection, PWA (Service Worker) অফলাইন সাপোর্ট
 - **Cloud Backend:** Google Apps Script Web App (Serverless, Direct Google Sheets Integration)
 
 ---
