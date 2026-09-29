@@ -1,0 +1,11 @@
+{
+  "name": "DocScan BD — স্মার্ট ডকুমেন্ট স্ক্যানার",
+  "short_name": "DocScan BD",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "lang": "bn",
+  "icons": [{ "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}
